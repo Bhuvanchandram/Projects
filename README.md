@@ -1,16 +1,16 @@
-# [Repository Name]
+# [Mini Projects using HTML, CSS and Javascript]
 
 ## Description
 This repository contains small web development projects built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
-- [Installation](#installation)
+- [Languages used](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-[Provide instructions on how to install and set up your projects.]
+## Languages Used
+[HTML,CSS and Javascript]
 
 ## Usage
 [Provide instructions on how to use your projects.]
