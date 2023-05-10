@@ -1,4 +1,4 @@
-# [Mini Projects using HTML, CSS and Javascript]
+# Small Web Development Projects
 
 ## Description
 This repository contains small web development projects built using HTML, CSS, and JavaScript.
