@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+</head>
+<body>
+    <p>Guess a number between 1 to 10</p>
+    <input type="text" id="textbox">
+    <button id="button">Submit</button>
+    <p id="para">Your Answer will be displayed here</p>
+    <script>
+        var x=0;
+        var compgen;
+        compgen=Math.floor(Math.random()*10)+1; //Generates a number between 1 to 10
+        document.getElementById("button").onclick=function(){
+            x=document.getElementById("textbox").value;
+            if(x==compgen){
+                document.getElementById("para").innerHTML="The number you have guessed is right";
+            }else{
+                document.getElementById("para").innerHTML="Incorrect number guessed";
+            }
+        }
+    </script>
+</body>
+</html>
