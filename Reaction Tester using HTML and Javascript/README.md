@@ -1,0 +1,1 @@
+The function of the following program is to create a simple reaction tester game. The game works by displaying a div element with a random color. When the user clicks on the div, the reaction time of the user is calculated and displayed in an alert dialog. The game then generates a new random color for the div and displays it again.
